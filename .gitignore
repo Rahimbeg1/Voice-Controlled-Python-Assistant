@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+assistant.log
+.env
+.vscode/
